@@ -1,0 +1,48 @@
+1. Wetter prüfen
+
+Apps: -DWD Flugwetter App
+
+Vorraussetzungen für Lufträume:
+
+C&D: 1000ft-8km Sicht
+     1500m-5km sicht
+     kontrolliert
+
+D:   Hauptwolkenuntergrenze 1500ft
+     Bodensicht 5km
+     5km Sicht auf Flughöhe
+     kontrolliert
+
+E:   1000ft-8km Sicht
+     Wolken bei 1500m
+     kontrolliert
+
+F:   1000ft-5km Sicht
+     1500m Wolken
+     unkontrolliert
+
+G:   frei von Wolken bei 1,5km
+     800m Sicht bei Erdsicht
+     Hinderniss müssen erkannt werden
+     unkontrolliert
+
+2. Nachrichten schecken
+
+Gab es Unfälle auf der geplannten Strecke?
+Ist Start und Landung möglich?
+
+Website:   www.dfs-ais.de
+
+iPhone-App (VFRiNOTAM)
+
+3. Flugzeuglimits
+
+Wie weit reicht die Tankfüllung? (Umweg zum Tanken?)
+Wie viel Platz wird zum Start benötigt?
+Wie hoch kann das Flugzeug fliegen?
+Beinflusst die Temperatut die Motorleistung?
+
+4. Gleichgewicht
+Masse und Schwerpunkt müssen genau bestimmt werden.
+
+5. Information zusammenführen in einem Flugdurchführungsplan (s. flugdurchfuehrung.pdf)
